@@ -9,6 +9,7 @@ I build... something... sometimes.
 - **[apidog-mcp](https://github.com/lstpsche/apidog-mcp)** — MCP server for managing [Apidog](https://apidog.com) API documentation. Import, export, diff, analyze, and bulk-edit OpenAPI specs and endpoint cases via the Model Context Protocol. `npx @lstpsche/apidog-mcp`
 - **[apidog-use](https://github.com/lstpsche/apidog-use)** — [Cursor](https://cursor.com) plugin for Apidog — bundles the MCP server above with agent skills, coding rules, and commands for managing API docs directly from the IDE.
 - **[obsidian-mcp](https://github.com/lstpsche/obsidian-mcp)** — High-performance Rust [MCP](https://modelcontextprotocol.io) server for [Obsidian](https://obsidian.md) vaults. 29 tools for AI agents — note CRUD, BM25 + semantic search, wikilink graph, periodic notes. No plugins, no HTTP, single binary. `cargo install obsidian-mcp`
+- **[telegram-mcp](https://github.com/lstpsche/telegram-mcp)** — Unofficial Go MCP server for [Telegram](https://telegram.org). Search conversations, explore replies and topics, catch up across chats, and open PDFs, images, and voice notes — with locally controlled access. macOS, Linux, and Windows. `brew install lstpsche/tap/telegram-mcp`
 
 ---
 
